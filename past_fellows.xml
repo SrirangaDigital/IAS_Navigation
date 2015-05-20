@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fellows SYSTEM "past_fellow.dtd">
 <fellows>
 	<fellow category="Past Fellows">
 		<entry>
@@ -2359,7 +2361,7 @@
 			<honours></honours>
 			<address></address>
 			<specialization>Mineralogy</specialization>
-			<section>Earth & Planetary Sciences</section>
+			<section>Earth &amp; Planetary Sciences</section>
 			<elected>1955</elected>
 			<service>1965-70</service>
 			<death>13-03-1971</death>
@@ -2430,7 +2432,7 @@
 			<degree>D.Sc. (London)</degree>
 			<honours>FNA</honours>
 			<address></address>
-			<specialization>Physical & Inorganic Chemistry and Reactors under Electric Discharge</specialization>
+			<specialization>Physical &amp; Inorganic Chemistry and Reactors under Electric Discharge</specialization>
 			<section>Chemistry</section>
 			<elected>1934</elected>
 			<service>1934-35, 1946-52, 1965-70</service>

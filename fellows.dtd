@@ -1,0 +1,26 @@
+<!ELEMENT fellows (fellow*)>
+<!ELEMENT fellow (entry+)>
+<!ATTLIST fellow category CDATA #REQUIRED>
+<!ELEMENT entry (name,dob,degree,honours,address,city,state,country,telephone,fax,email,specialization,section,elected,service,url)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name first CDATA #REQUIRED>
+<!ATTLIST name last CDATA #REQUIRED>
+<!ATTLIST name sal CDATA #REQUIRED>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT degree (#PCDATA)>
+<!ELEMENT honours (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT telephone (office,residence,mobile)>
+<!ELEMENT office (#PCDATA)>
+<!ELEMENT residence (#PCDATA)>
+<!ELEMENT mobile (#PCDATA)>
+<!ELEMENT fax (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT specialization (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT elected (#PCDATA)>
+<!ELEMENT service (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
