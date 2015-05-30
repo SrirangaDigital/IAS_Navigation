@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lectures SYSTEM "lectures.dtd">
+
+<lectures>
+	<entry>
+		<date>2011-11-18</date>
+		<place>Ahmedabad</place>
+		<name>Sudhir Kakar</name>
+		<sub>A creative melancholy: the paintings of Rabindranath Tagore</sub>
+	</entry>
+	<entry> 
+		<date>2011-11-19</date>
+		<place>Ahmedabad</place>
+		<name>Samir K. Brahmachari</name>
+		<sub>Open source drug discovery: A model for science 2.0 through crowd sourcing</sub>
+	</entry>
+	<entry>
+		<date>2011-11-19</date>
+		<place>Ahmedabad</place>
+		<name>Sudarshan Iyengar</name>
+		<sub>Science-Social science interface</sub>
+	</entry>
+	<entry>
+		<date>2011-11-20</date>
+		<place>Ahmedabad</place>
+		<name>Devang V. Khakhar</name>
+		<sub>Dense granular flows: Rheology and segragation</sub>
+	</entry>
+	<entry>
+		<date>1992-11-06</date>
+		<place>Ahmedabad</place>
+		<name>K. Kasturirangan</name>
+		<sub>Some interesting problems in the development of ISRO satellites</sub>
+	</entry>
+	<entry>
+		<date>1992-11-07</date>
+		<place>Ahmedabad</place>
+		<name>S.R. Rao</name>
+		<sub>Gujarath through the ages</sub>
+	</entry>
+	<entry>
+		<date>1969-12-21</date>
+		<place>Aurangabad</place>
+		<name>S. Bhagavantam</name>
+		<sub>Electronics and its applications</sub>
+	</entry>
+	<entry>
+		<date>1969-12-22</date>
+		<place>Aurangabad</place>
+		<name>M.S. Swaminathan</name>
+		<sub>Genetic harvest of our biological resources</sub>
+	</entry>
+	<entry>
+		<date>1968-12-23</date>
+		<place>Ahmedabad</place>
+		<name>G.N. Ramachandran</name>
+		<sub>Molecular biology</sub>
+	</entry>
+	<entry>
+		<date>1968-12-24</date>
+		<place>Ahmedabad</place>
+		<name>C. Gopalan</name>
+		<sub>Recent studies on some nutritional disorders</sub>
+	</entry>
+	<entry>
+		<date>1959-12-27</date>
+		<place>Annamalainagar</place>
+		<name>P. Nilakantan</name>
+		<sub>Supersonic flight</sub>
+	</entry>
+	<entry>
+		<date>1959-12-28</date>
+		<place>Annamalainagar</place>
+		<name>S. Bhagavantam</name>
+		<sub>Radio astronomy</sub>
+	</entry>
+	<entry>
+		<date>1953-12-28</date>
+		<place>Ahmedabad</place>
+		<name>K. Venkataraman</name>
+		<sub>Recent advances in colour chemistry</sub>
+	</entry>
+	<entry>
+		<date>1953-12-29</date>
+		<place>Ahmedabad</place>
+		<name>Bernard Peters</name>
+		<sub>Cosmic radiation</sub>
+	</entry>
+	<entry>
+		<date>1953-12-30</date>
+		<place>Ahmedabad</place>
+		<name>C.V. Raman</name>
+		<sub>Iridescent shells</sub>
+	</entry>
+	<entry>
+		<date>1946-12-26</date>
+		<place>Allahabad</place>
+		<name>C.V. Raman</name>
+		<sub>Gems</sub>
+	</entry>
+	<entry>
+		<date>1946-12-27</date>
+		<place>Allahabad</place>
+		<name>T.R. Seshadri</name>
+		<sub>Some war-time chemical discoveries</sub>
+	</entry>
+	<entry>
+		<date>1946-12-27</date>
+		<place>Allahabad</place>
+		<name>B.S. Guha</name>
+		<sub>The primitive tribes of India - Their racial and cultural background</sub>
+	</entry>
+	<entry>
+		<date>1946-12-28</date>
+		<place>Allahabad</place>
+		<name>N.R. Dhar</name>
+		<sub>Chemistry of fasting</sub>
+	</entry>
+	<entry>
+		<date>2013-07-05</date>
+		<place>Bangalore</place>
+		<name>S. Sivaram</name>
+		<sub>Sustainable materials based on aliphatic polyesters: Teaching old chemistry some new tricks</sub>
+	</entry>
+	<entry>
+		<date>2013-07-05</date>
+		<place>Bangalore</place>
+		<name>T. Jacob John</name>
+		<sub>India's success story: Polio eradication</sub>
+	</entry>
+	<entry>
+		<date>2013-07-06</date>
+		<place>Bangalore</place>
+		<name>Deepak Pental</name>
+		<sub>Breeding of oilseed mustard: Tales from some marathon runners</sub>
+	</entry>
+	<entry>
+		<date>2012-07-13</date>
+		<place>Bangalore</place>
+		<name>Ashutosh Sharma</name>
+		<sub>Taming self-organization in highly confined soft matter to sub-100 nm scales: Fabrication of nanolens-arrays by spinodal instability of thin polymer films</sub>
+	</entry>
+	<entry>
+		<date>2012-07-13</date>
+		<place>Bangalore</place>
+		<name>Mahesh Rangarajan</name>
+		<sub>Making spaces for nature: Science, politics and the environment in an emerging economy</sub>
+	</entry>
+	<entry>
+		<date>2012-07-14</date>
+		<place>Bangalore</place>
+		<name>Chandrima Shaha</name>
+		<sub>Many roads to an end: The evolution of cell death</sub>
+	</entry>
+	<entry>
+		<date>2011-07-08</date>
+		<place>Bangalore</place>
+		<name>J.B. Udgaonkar</name>
+		<sub>The self-packing protein puzzle: How do proteins fold?</sub>
+	</entry>
+	<entry>
+		<date>2011-07-08</date>
+		<place>Bangalore</place>
+		<name>Anil Sadgopal</name>
+		<sub>Neo-liberal assault on education: undoing freedom movement's aspirations and vision of the constitution</sub>
+	</entry>
+	<entry>
+		<date>2011-07-09</date>
+		<place>Bangalore</place>
+		<name>Mustansir Barma</name>
+		<sub>Entropy and order</sub>
+	</entry>
+	<entry>
+		<date>2010-07-02</date>
+		<place>Bangalore</place>
+		<name>T. Padmanabhan</name>
+		<sub>Gravity: A new perspective</sub>
+	</entry>
+	<entry>
+		<date>2010-07-02</date>
+		<place>Bangalore</place>
+		<name>Shyam Benegal</name>
+		<sub>Communications and culture: tradition, modernity and postmodernism in Indian cinema</sub>
+	</entry>
+	<entry>
+		<date>2010-07-03</date>
+		<place>Bangalore</place>
+		<name>K.N. Ganesh</name>
+		<sub>Bioinspired chemistry: from PNA ('Pune' Nucleic Acids) to DNA nanotechnology</sub>
+	</entry>
+	<entry>
+		<date>2009-11-12</date>
+		<place>Bangalore</place>
+		<name>C. N. R. Rao</name>
+		<sub>Emerging India as a great centre of science</sub>
+	</entry>
+	<entry>
+		<date>2009-11-12</date>
+		<place>Bangalore</place>
+		<name>Nandan Nilekani</name>
+		<sub>Unique identification project</sub>
+	</entry>
+	<entry>
+		<date>2009-11-13</date>
+		<place>Bangalore</place>
+		<name>M. R. S. Rao</name>
+		<sub>Genomic and system approaches to understand the biology of cellular differentiation and disease</sub>
+	</entry>
+	<entry>
+		<date>2009-11-13</date>
+		<place>Bangalore</place>
+		<name>Mark Tully</name>
+		<sub>The need for balance in an unbalanced world</sub>
+	</entry>
+	<entry>
+		<date>2008-07-04</date>
+		<place>Bangalore</place>
+		<name>A. Surolia</name>
+		<sub>The joy of exploring the rich repertoire of carbohydrate motifs and their shapely lectin receptors</sub>
+	</entry>
+	<entry>
+		<date>2008-07-04</date>
+		<place>Bangalore</place>
+		<name>Anil Kakodkar</name>
+		<sub>Development of nuclear energy in India: Rationale and perspectives</sub>
+	</entry>
+	<entry>
+		<date>2008-07-05</date>
+		<place>Bangalore</place>
+		<name>Srikumar Banerjee</name>
+		<sub>Structural transitions: Discrete versus continuous</sub>
+	</entry>
+	<entry>
+		<date>2007-07-13</date>
+		<place>Bangalore</place>
+		<name>G. Sundararajan</name>
+		<sub>The indentation of materials to probe their mechanical behaviour</sub>
+	</entry>
+	<entry>
+		<date>2007-07-13</date>
+		<place>Bangalore</place>
+		<name>G. Madhavan Nair</name>
+		<sub>Challenges in space exploration: Global perspectives and Indian Initiatives</sub>
+	</entry>
+	<entry>
+		<date>2007-07-14</date>
+		<place>Bangalore</place>
+		<name>E. D. Jemmis</name>
+		<sub>A structural chemistry for boron</sub>
+	</entry>
+	<entry>
+		<date>2006-07-14</date>
+		<place>Bangalore</place>
+		<name>J. N. Goswami</name>
+		<sub>Origin of the solar system: a cosmic accident?</sub>
+	</entry>
+	<entry>
+		<date>2006-07-14</date>
+		<place>Bangalore</place>
+		<name>M. S. Narasimhan</name>
+		<sub>What do mathematicians do, and how?</sub>
+	</entry>
+	<entry>
+		<date>2006-07-15</date>
+		<place>Bangalore</place>
+		<name>K. VijayRaghavan</name>
+		<sub>The development of locomotive ability</sub>
+	</entry>
+	<entry>
+		<date>2005-07-08</date>
+		<place>Bangalore</place>
+		<name>D. Chatterji</name>
+		<sub>A tiny molecular machine and its architecture</sub>
+	</entry>
+	<entry>
+		<date>2005-07-08</date>
+		<place>Bangalore</place>
+		<name>Kiran Mazumdar-Shaw</name>
+		<sub>The need for shared vision between academia and industry</sub>
+	</entry>
+	<entry>
+		<date>2005-07-09</date>
+		<place>Bangalore</place>
+		<name>T. Ramasami</name>
+		<sub>Collagen-based smart biomaterials</sub>
+	</entry>
+	<entry>
+		<date>2004-07-02</date>
+		<place>Bangalore</place>
+		<name>Samir Bhattacharya</name>
+		<sub>Insulin signalling defects and diabetes type-2</sub>
+	</entry>
+	<entry>
+		<date>2004-07-02</date>
+		<place>Bangalore</place>
+		<name>C. Ramachandra Guha</name>
+		<sub>Redeeming the idea of India</sub>
+	</entry>
+	<entry>
+		<date>2004-07-03</date>
+		<place>Bangalore</place>
+		<name>Satish R. Shetye</name>
+		<sub>Why the difference in climates of India and Arabia? An oceanographer's perspective</sub>
+	</entry>
+	<entry>
+		<date>2003-07-17</date>
+		<place>Bangalore</place>
+		<name>G. Padmanaban</name>
+		<sub>Molecular medicine</sub>
+	</entry>
+	<entry>
+		<date>2003-07-18</date>
+		<place>Bangalore</place>
+		<name>J. P. Mittal</name>
+		<sub>Excitement in radiation research</sub>
+	</entry>
+	<entry>
+		<date>2003-07-18</date>
+		<place>Bangalore</place>
+		<name>Indira Nath</name>
+		<sub>SARS - 21st century virus connects the world</sub>
+	</entry>
+	<entry>
+		<date>2003-07-19</date>
+		<place>Bangalore</place>
+		<name>Ashok Sahni</name>
+		<sub>Dinosaurs of India: dead but alive</sub>
+	</entry>
+	<entry>
+		<date>2002-07-05</date>
+		<place>Bangalore</place>
+		<name>S. Ranganathan</name>
+		<sub>Novel atomic configuations in metallics</sub>
+	</entry>
+	<entry>
+		<date>2002-07-05</date>
+		<place>Bangalore</place>
+		<name>K. Anji Reddy</name>
+		<sub>Science for profit is profit for science</sub>
+	</entry>
+	<entry>
+		<date>2002-07-06</date>
+		<place>Bangalore</place>
+		<name>S.M. Chitre</name>
+		<sub>Seismic Sun and solar neutrinos</sub>
+	</entry>
+	<entry>
+		<date>2001-07-20</date>
+		<place>Bangalore</place>
+		<name>R. Chidambaram</name>
+		<sub>Scientific ovjectives of Pokhran II - Design and realization</sub>
+	</entry>
+	<entry>
+		<date>2001-07-20</date>
+		<place>Bangalore</place>
+		<name>Vinod K. Gaur</name>
+		<sub>Living with earthquakes</sub>
+	</entry>
+	<entry>
+		<date>2001-07-21</date>
+		<place>Bangalore</place>
+		<name>P.N. Tandon</name>
+		<sub>Neural basis of memory - New insights</sub>
+	</entry>
+	<entry>
+		<date>2000-07-14</date>
+		<place>Bangalore</place>
+		<name>Abhijit Sen</name>
+		<sub>Clocks, fireflies and the Landau damping of Plasma</sub>
+	</entry>
+	<entry>
+		<date>2000-07-14</date>
+		<place>Bangalore</place>
+		<name>K.S. Valdiya</name>
+		<sub>Rising Himalaya: Resurgent Indian shield in South India</sub>
+	</entry>
+	<entry>
+		<date>2000-07-15</date>
+		<place>Bangalore</place>
+		<name>Partha P. Majumder</name>
+		<sub>Ethnic India: A genomic view</sub>
+	</entry>
+	<entry>
+		<date>1999-07-16</date>
+		<place>Bangalore</place>
+		<name>Asis Datta</name>
+		<sub>Current status of plant biotechnology: A journey from laboratory to commercialization</sub>
+	</entry>
+	<entry>
+		<date>1999-07-16</date>
+		<place>Bangalore</place>
+		<name>G. Padmanaban</name>
+		<sub>Gene technology - Panacea or peril for the society?</sub>
+	</entry>
+	<entry>
+		<date>1999-07-17</date>
+		<place>Bangalore</place>
+		<name>S. Dattagupta</name>
+		<sub>Magneto-optic piston effect</sub>
+	</entry>
+	<entry>
+		<date>1998-07-17</date>
+		<place>Bangalore</place>
+		<name>H.R. Krishnamurthy</name>
+		<sub>Novel physics in strongly correlated electron systems</sub>
+	</entry>
+	<entry>
+		<date>1998-07-17</date>
+		<place>Bangalore</place>
+		<name>J.V. Narlikar</name>
+		<sub>University: The ultimate laboratory</sub>
+	</entry>
+	<entry>
+		<date>1998-07-18</date>
+		<place>Bangalore</place>
+		<name>A. Chakravorty</name>
+		<sub>A TMC canvas</sub>
+	</entry>
+	<entry>
+		<date>1997-07-18</date>
+		<place>Bangalore</place>
+		<name>D. Balasubramanian</name>
+		<sub>Molecular epidemiology of cataract - The major blinding disease</sub>
+	</entry>
+	<entry>
+		<date>1997-07-18</date>
+		<place>Bangalore</place>
+		<name>M.S. Swaminathan</name>
+		<sub>Science for sustainable future</sub>
+	</entry>
+	<entry>
+		<date>1997-07-19</date>
+		<place>Bangalore</place>
+		<name>K.B. Sinha</name>
+		<sub>K. Anji Reddy</sub>
+	</entry>
+	<entry>
+		<date>1996-07-19</date>
+		<place>Bangalore</place>
+		<name>T.V. Ramakrishnan</name>
+		<sub>Anomalous electronic properties of oxide "metals"</sub>
+	</entry>
+	<entry>
+		<date>1996-07-19</date>
+		<place>Bangalore</place>
+		<name>S. Settar</name>
+		<sub>Medieval Indian artist - Between convention and creativity</sub>
+	</entry>
+	<entry>
+		<date>1996-07-20</date>
+		<place>Bangalore</place>
+		<name>V. Nanjundiah</name>
+		<sub>The development and evolution of spatial pattern in a social amoeba</sub>
+	</entry>
+	<entry>
+		<date>1995-07-28</date>
+		<place>Bangalore</place>
+		<name>M.S. Valiathan</name>
+		<sub>Medicine for all seasons:Science of life in Dhanwantris India</sub>
+	</entry>
+	<entry>
+		<date>1995-07-28</date>
+		<place>Bangalore</place>
+		<name>N. Kumar</name>
+		<sub>Light localization in random amplifying medium: Mirrorless laser</sub>
+	</entry>
+	<entry>
+		<date>1994-12-01</date>
+		<place>Bangalore</place>
+		<name>T. Kailath</name>
+		<sub>The legacy of Norbert Wiener</sub>
+	</entry>
+	<entry>
+		<date>1994-12-02</date>
+		<place>Bangalore</place>
+		<name>C.R. Rao</name>
+		<sub>The fascination of statistics</sub>
+	</entry>
+	<entry>
+		<date>1994-12-02</date>
+		<place>Bangalore</place>
+		<name>Govind Swarup</name>
+		<sub>Radio astronomy and the structure of the universe</sub>
+	</entry>
+	<entry>
+		<date>1994-12-02</date>
+		<place>Bangalore</place>
+		<name>A.K. Ramdas</name>
+		<sub>Diamonds: Science, fiction and lore</sub>
+	</entry>
+	<entry>
+		<date>1994-12-02</date>
+		<place>Bangalore</place>
+		<name>O. Siddiqi</name>
+		<sub>Perception of chemicals</sub>
+	</entry>
+	<entry>
+		<date>1994-12-02</date>
+		<place>Bangalore</place>
+		<name>Gen. K. Sunderji</name>
+		<sub>India 2015: A strategic perspective</sub>
+	</entry>
+	<entry>
+		<date>1994-11-25</date>
+		<place>Bangalore</place>
+		<name>R.G. Edwards</name>
+		<sub>Human reproduction in the 21st century</sub>
+	</entry>
+	<entry>
+		<date>1994-03-17</date>
+		<place>Bangalore</place>
+		<name>J.H. Taylor</name>
+		<sub>Binary pulsars</sub>
+	</entry>
+	<entry>
+		<date>1994-01-19</date>
+		<place>Bangalore</place>
+		<name>Anatol Roshko</name>
+		<sub>What is the turbulence problem?</sub>
+	</entry>
+	<entry>
+		<date>1993-07-23</date>
+		<place>Bangalore</place>
+		<name>U.R. Anantha Murthy</name>
+		<sub>The search for identity in an Indian writer:A personal view</sub>
+	</entry>
+	<entry>
+		<date>1992-07-24</date>
+		<place>Bangalore</place>
+		<name>Debiprasad Chattopadhyaya</name>
+		<sub>In defence of the history of science in ancient India</sub>
+	</entry>
+	<entry>
+		<date>1991-07-26</date>
+		<place>Bangalore</place>
+		<name>M.S. Srinivas</name>
+		<sub>The caste system and its future</sub>
+	</entry>
+	<entry>
+		<date>1990-01-19</date>
+		<place>Bangalore</place>
+		<name>David Gross</name>
+		<sub>Physics and mathematics at the frontier</sub>
+	</entry>
+	<entry>
+		<date>1990-10-29</date>
+		<place>Bangalore</place>
+		<name>G.A. Horridge</name>
+		<sub>A template theory for copying insect vision</sub>
+	</entry>
+	<entry>
+		<date>1990-11-08</date>
+		<place>Bhubaneswar</place>
+		<name>K.V. Soundara Rajan</name>
+		<sub>Art and architecture of early Kalinga</sub>
+	</entry>
+	<entry>
+		<date>1990-11-09</date>
+		<place>Bhubaneswar</place>
+		<name>John T. Bonner</name>
+		<sub>Sociobiology - From insects to human beings</sub>
+	</entry>
+	<entry>
+		<date>1989-07-24</date>
+		<place>Bangalore</place>
+		<name>N. Mukunda</name>
+		<sub>The world of elementary particles - Past and future</sub>
+	</entry>
+	<entry>
+		<date>1989-11-11</date>
+		<place>Bhopal</place>
+		<name>J. Ramachandran</name>
+		<sub>Molecular mechanisms of transmembrane signalling</sub>
+	</entry>
+	<entry>
+		<date>1989-11-12</date>
+		<place>Bhopal</place>
+		<name>K.K. Chakravarty</name>
+		<sub>Unique masterpieces of Central Indian art</sub>
+	</entry>
+	<entry>
+		<date>1989-12-24</date>
+		<place>Bangalore</place>
+		<name>David Malin</name>
+		<sub>Photography and the discoveryof the galaxy</sub>
+	</entry>
+	<entry>
+		<date>1987-11-26</date>
+		<place>Bangalore</place>
+		<name>Rudolf Peierls</name>
+		<sub>Early days of quantum mechanics</sub>
+	</entry>
+	<entry>
+		<date>1987-02-23</date>
+		<place>Bangalore</place>
+		<name>Fred Hoyle</name>
+		<sub>Evolution in astronomy and biology</sub>
+	</entry>
+	<entry>
+		<date>1985-12-20</date>
+		<place>Bangalore</place>
+		<name>Herman Bondi</name>
+		<sub>Special theory of relativity</sub>
+	</entry>
+	<entry>
+		<date>1985-02-06</date>
+		<place>Bangalore</place>
+		<name>S. Chandrasekhar, NL</name>
+		<sub>The pursuit of Science: its motivations</sub>
+	</entry>
+	<entry>
+		<date>1985-02-06</date>
+		<place>Bangalore</place>
+		<name>M.G.K. Menon</name>
+		<sub>Cosmic ray research and cosmic ray physicists over the past fifty years in India</sub>
+	</entry>
+	<entry>
+		<date>1985-02-07</date>
+		<place>Bangalore</place>
+		<name>O. Siddiqi</name>
+		<sub>Neurogenetics of smell</sub>
+	</entry>
+	<entry>
+		<date>1985-02-08</date>
+		<place>Bangalore</place>
+		<name>M.M. Sharma</name>
+		<sub>Excursions into multiphase reactions</sub>
+	</entry>
+	<entry>
+		<date>1985-02-08</date>
+		<place>Bangalore</place>
+		<name>C.N.R. Rao</name>
+		<sub>What maketh a metal?</sub>
+	</entry>
+	<entry>
+		<date>1984-01-27</date>
+		<place>Bangalore</place>
+		<name>R. Hanbury Brown</name>
+		<sub>Measuring the sizes of stars</sub>
+	</entry>
+	<entry>
+		<date>1984-11-21</date>
+		<place>Bangalore</place>
+		<name>S. Chandrasekhar</name>
+		<sub>Gravitational collapse and the problem of singularities in general relativity</sub>
+	</entry>
+	<entry>
+		<date>1983-01-03</date>
+		<place>Bangalore</place>
+		<name>Martin J. Rees</name>
+		<sub>Evolution and fate of the universe</sub>
+	</entry>
+	<entry>
+		<date>1983-02-03</date>
+		<place>Bangalore</place>
+		<name>G.W. Series</name>
+		<sub>The fundamental atomic constants: The ubiquity of alpha</sub>
+	</entry>
+	<entry>
+		<date>1976-11-13</date>
+		<place>Baroda</place>
+		<name>C. Gopalan</name>
+		<sub>New horizons in nutrition research</sub>
+	</entry>
+	<entry>
+		<date>1976-11-14</date>
+		<place>Baroda</place>
+		<name>N. Bhanu Prasad</name>
+		<sub>The oil exploration programme</sub>
+	</entry>
+	<entry>
+		<date>1972-12-19</date>
+		<place>Bombay</place>
+		<name>G.S. Mutalik</name>
+		<sub>Human heredity and health</sub>
+	</entry>
+	<entry>
+		<date>1972-12-20</date>
+		<place>Bombay</place>
+		<name>E.C.G. Sudarshan</name>
+		<sub>Transformationand invarience - The perspective of modern physics</sub>
+	</entry>
+	<entry>
+		<date>1971-11-08</date>
+		<place>Bangalore</place>
+		<name>S. Bhagavantam</name>
+		<sub>Professor Raman and his work</sub>
+	</entry>
+	<entry>
+		<date>1970-09-08</date>
+		<place>Bangalore</place>
+		<name>M.K. Vainu Bappu</name>
+		<sub>Solar eclipses</sub>
+	</entry>
+	<entry>
+		<date>1970-09-09</date>
+		<place>Bangalore</place>
+		<name>Anna Mani</name>
+		<sub>Modern meteorology</sub>
+	</entry>
+	<entry>
+		<date>1970-09-10</date>
+		<place>Bangalore</place>
+		<name>C.N.R. Rao</name>
+		<sub>Molecular structure</sub>
+	</entry>
+	<entry>
+		<date>1970-09-10</date>
+		<place>Bangalore</place>
+		<name>R.M. Varma</name>
+		<sub>Brain and mind</sub>
+	</entry>
+	<entry>
+		<date>1970-09-11</date>
+		<place>Bangalore</place>
+		<name>Govind Swarup</name>
+		<sub>Radio astronomy</sub>
+	</entry>
+	<entry>
+		<date>1970-09-11</date>
+		<place>Bangalore</place>
+		<name>B.P. Radhakrishna</name>
+		<sub>Our mineral resources</sub>
+	</entry>
+	<entry>
+		<date>1970-09-12</date>
+		<place>Bangalore</place>
+		<name>S. Ramaseshan</name>
+		<sub>Materials science</sub>
+	</entry>
+	<entry>
+		<date>1970-09-12</date>
+		<place>Bangalore</place>
+		<name>S.K. Rangarajan</name>
+		<sub>Mathemtical problems involvedin electrolytic milling</sub>
+	</entry>
+	<entry>
+		<date>1970-09-12</date>
+		<place>Bangalore</place>
+		<name>V.P. Rao</name>
+		<sub>Insect control</sub>
+	</entry>
+	<entry>
+		<date>1962-12-25</date>
+		<place>Bombay</place>
+		<name>S. Krishnaswamy</name>
+		<sub>Marine life in shallow waters</sub>
+	</entry>
+	<entry>
+		<date>1962-12-25</date>
+		<place>Bombay</place>
+		<name>N.K. Panikkar</name>
+		<sub>The Indian Ocean expedition</sub>
+	</entry>
+	<entry>
+		<date>1962-12-26</date>
+		<place>Bombay</place>
+		<name>K.R. Ramanathan</name>
+		<sub>Solar activity and the upper atmosphere</sub>
+	</entry>
+	<entry>
+		<date>1958-12-28</date>
+		<place>Baroda</place>
+		<name>N.K. Panikkar</name>
+		<sub>Indian fisheries</sub>
+	</entry>
+	<entry>
+		<date>1958-12-29</date>
+		<place>Baroda</place>
+		<name>S. Bhagavantam</name>
+		<sub>Sounds we cannot hear</sub>
+	</entry>
+	<entry>
+		<date>1954-12-27</date>
+		<place>Belgaum</place>
+		<name>T.S. Raghavan</name>
+		<sub>Sugarcanes of India</sub>
+	</entry>
+	<entry>
+		<date>1954-12-28</date>
+		<place>Belgaum</place>
+		<name>M.V. Govindaswamy</name>
+		<sub>Modern ideas regarding mentaldisorder</sub>
+	</entry>
+	<entry>
+		<date>1949-12-30</date>
+		<place>Bombay</place>
+		<name>J.D. Bernal</name>
+		<sub>X-rays in organic chemistry</sub>
+	</entry>
+	<entry>
+		<date>1949-12-31</date>
+		<place>Bombay</place>
+		<name>Hermann Mark</name>
+		<sub>Light scattering in polymer solutions</sub>
+	</entry>
+	<entry>
+		<date>1949-12-31</date>
+		<place>Bombay</place>
+		<name>Robert Robinson</name>
+		<sub>The chemistry of brazilium</sub>
+	</entry>
+	<entry>
+		<date>1949-12-31</date>
+		<place>Bombay</place>
+		<name>C.V. Raman</name>
+		<sub>Luminescence of solids</sub>
+	</entry>
+	<entry>
+		<date>1948-12-27</date>
+		<place>Bangalore</place>
+		<name>S. Chapman</name>
+		<sub>Aurora borealis</sub>
+	</entry>
+	<entry>
+		<date>1948-12-28</date>
+		<place>Bangalore</place>
+		<name>K.R. Ramanathan</name>
+		<sub>Upper air with special reference to aerial navigation</sub>
+	</entry>
+	<entry>
+		<date>1942-12-28</date>
+		<place>Bangalore</place>
+		<name>R. Gopala Aiyar</name>
+		<sub>Some aspects of marine life on the Madras coast</sub>
+	</entry>
+	<entry>
+		<date>1939-12-31</date>
+		<place>Bangalore</place>
+		<name>T.R. Seshadri</name>
+		<sub>How we fight our enemies</sub>
+	</entry>
+	<entry>
+		<date>1938-03-24</date>
+		<place>Bangalore</place>
+		<name>H.J. Taylor</name>
+		<sub>Nuclear reactions</sub>
+	</entry>
+	<entry>
+		<date>1937-01-12</date>
+		<place>Bangalore</place>
+		<name>K.S. Krishnan</name>
+		<sub>The approach to the absolute zero of temperature</sub>
+	</entry>
+	<entry>
+		<date>2002-11-08</date>
+		<place>Chandigarh</place>
+		<name>Mohan Maharishi</name>
+		<sub>Rasa siddhanta and its social significance</sub>
+	</entry>
+	<entry>
+		<date>2002-11-09</date>
+		<place>Chandigarh</place>
+		<name>P. K. Kaw</name>
+		<sub>Collective modes in a strongly coupled dusty plasma</sub>
+	</entry>
+	<entry>
+		<date>2002-11-09</date>
+		<place>Chandigarh</place>
+		<name>M. S. Raghunathan</name>
+		<sub>Artless innocents and ivory tower sophisticates: some personalities on the Indian mathematical scene</sub>
+	</entry>
+	<entry>
+		<date>2002-11-10</date>
+		<place>Chandigarh</place>
+		<name>S. E. Hasnain</name>
+		<sub>Evolution of biology: are we ready to play God?</sub>
+	</entry>
+	<entry>
+		<date>1988-10-31</date>
+		<place>Calcutta</place>
+		<name>D.P. Chattopadhyaya</name>
+		<sub>Science, technology and theirhuman roots</sub>
+	</entry>
+	<entry>
+		<date>1988-11-01</date>
+		<place>Calcutta</place>
+		<name>S. Chandrasekhar</name>
+		<sub>Recent developments in the physics of liquid crystals</sub>
+	</entry>
+	<entry>
+		<date>1988-11-02</date>
+		<place>Calcutta</place>
+		<name>S. Ramaseshan</name>
+		<sub>Life and work of C.V. Raman</sub>
+	</entry>
+	<entry>
+		<date>1979-12-24</date>
+		<place>Chandigarh</place>
+		<name>B.N. Goswamy</name>
+		<sub>Indian painting and poetry - A relationship</sub>
+	</entry>
+	<entry>
+		<date>1979-12-25</date>
+		<place>Chandigarh</place>
+		<name>P.K. Das</name>
+		<sub>MONEX</sub>
+	</entry>
+	<entry>
+		<date>1977-11-26</date>
+		<place>Calcutta</place>
+		<name>S.R. Valluri</name>
+		<sub>Mechanical behaviour of materials</sub>
+	</entry>
+	<entry>
+		<date>1977-11-27</date>
+		<place>Calcutta</place>
+		<name>H.Y. Mohan Ram</name>
+		<sub>Hallucinogenic plants</sub>
+	</entry>
+	<entry>
+		<date>1947-12-27</date>
+		<place>Cuttack</place>
+		<name>N.K. Panikkar</name>
+		<sub>Blood and sea water</sub>
+	</entry>
+	<entry>
+		<date>1947-12-29</date>
+		<place>Cuttack</place>
+		<name>C.V. Raman</name>
+		<sub>Smell and taste</sub>
+	</entry>
+	<entry>
+		<date>2012-11-02</date>
+		<place>Dehradun</place>
+		<name>Mohan Agashe</name>
+		<sub>Cinema for health</sub>
+	</entry>
+	<entry>
+		<date>2012-11-03</date>
+		<place>Dehradun</place>
+		<name>Rohini Godbole</name>
+		<sub>We have found a new boson, what next?</sub>
+	</entry>
+	<entry>
+		<date>2012-11-03</date>
+		<place>Dehradun</place>
+		<name>Shyam Saran</name>
+		<sub>The challenge of climate change</sub>
+	</entry>
+	<entry>
+		<date>2012-11-04</date>
+		<place>Dehradun</place>
+		<name>V. S. Chauhan</name>
+		<sub>Current challenges in research of infectious diseases: Malaria and tuberculosis</sub>
+	</entry>
+	<entry>
+		<date>1993-11-06</date>
+		<place>Dehradun</place>
+		<name>Santimay Chatterjee</name>
+		<sub>Meghnad Saha and Satyen Bose:Champions of a common cause</sub>
+	</entry>
+	<entry>
+		<date>1993-11-07</date>
+		<place>Dehradun</place>
+		<name>A.P.J. Abdul Kalam</name>
+		<sub>Technology development in India - Some experiences</sub>
+	</entry>
+	<entry>
+		<date>1993-11-08</date>
+		<place>Dehradun</place>
+		<name>G. Padmanaban</name>
+		<sub>Molecular biology and public health</sub>
+	</entry>
+	<entry>
+		<date>1993-11-08</date>
+		<place>Dehradun</place>
+		<name>K.S. Valdiya</name>
+		<sub>Dynamic Himalaya: Continuing movements and uplift</sub>
+	</entry>
+	<entry>
+		<date>1974-11-08</date>
+		<place>Delhi</place>
+		<name>S. Dhawan</name>
+		<sub>Remote sensing</sub>
+	</entry>
+	<entry>
+		<date>1974-11-09</date>
+		<place>Delhi</place>
+		<name>O. Siddiqi</name>
+		<sub>The genetic basis of behaviour</sub>
+	</entry>
+	<entry>
+		<date>1951-12-28</date>
+		<place>Delhi</place>
+		<name>P. Maheswari</name>
+		<sub>Botany and our food supply</sub>
+	</entry>
+	<entry>
+		<date>1951-12-29</date>
+		<place>Delhi</place>
+		<name>C.V. Raman</name>
+		<sub>Electrical properties of crystals</sub>
+	</entry>
+	<entry>
+		<date>2010-11-12</date>
+		<place>Goa</place>
+		<name>C. Raja Mohan</name>
+		<sub>India and the Indian Ocean: In search of a strategic role</sub>
+	</entry>
+	<entry>
+		<date>2010-11-13</date>
+		<place>Goa</place>
+		<name>A. K. Singhvi</name>
+		<sub>Synergistic mutualism between geology and physics: The case of luminescence geochronometry</sub>
+	</entry>
+	<entry>
+		<date>2010-11-13</date>
+		<place>Goa</place>
+		<name>Kaushik Basu</name>
+		<sub>Higher Education and economic development</sub>
+	</entry>
+	<entry>
+		<date>2010-11-14</date>
+		<place>Goa</place>
+		<name>Kanury V. S. Rao</name>
+		<sub>The dynamics of host–pathogen interactions in TB infection</sub>
+	</entry>
+	<entry>
+		<date>2003-11-21</date>
+		<place>Guwahati</place>
+		<name>Manned space flight and earth's environment</name>
+		<sub>Rakesh Sharma</sub>
+	</entry>
+	<entry>
+		<date>2003-11-22</date>
+		<place>Guwahati</place>
+		<name>The love triangle between single-stranded RNA and double-stranded DNA: R loops and their consequences in bacteria</name>
+		<sub>J. Gowrishankar</sub>
+	</entry>
+	<entry>
+		<date>2003-11-22</date>
+		<place>Guwahati</place>
+		<name>Seeds and civilization</name>
+		<sub>H. Y. Mohan Ram</sub>
+	</entry>
+	<entry>
+		<date>2003-11-23</date>
+		<place>Guwahati</place>
+		<name>Search for a unified theory</name>
+		<sub>Ashoke Sen</sub>
+	</entry>
+	<entry>
+		<date>2000-11-24</date>
+		<place>Goa</place>
+		<name>S. Ranganathan</name>
+		<sub>The magic in chemistry</sub>
+	</entry>
+	<entry>
+		<date>2000-11-25</date>
+		<place>Goa</place>
+		<name>Madhava Gadgil</name>
+		<sub>Butterflies</sub>
+	</entry>
+	<entry>
+		<date>2000-11-25</date>
+		<place>Goa</place>
+		<name>P.M. Mathews</name>
+		<sub>Glimpses into the Earth's interior from observations of objects in space</sub>
+	</entry>
+	<entry>
+		<date>2000-11-26</date>
+		<place>Goa</place>
+		<name>S.K. Sopory</name>
+		<sub>Genetic engineering for developing plants for high soil salinity environment</sub>
+	</entry>
+	<entry>
+		<date>2009-07-02</date>
+		<place>Hyderabad</place>
+		<name>Lalji Singh</name>
+		<sub>Genetic diversity in Indian population and its implications in health and diseases</sub>
+	</entry>
+	<entry>
+		<date>2009-07-02</date>
+		<place>Hyderabad</place>
+		<name>Narendra Luther</name>
+		<sub>History and heritage of twin cities</sub>
+	</entry>
+	<entry>
+		<date>2009-07-03</date>
+		<place>Hyderabad</place>
+		<name>Surendra Prasad</name>
+		<sub>Converting copper into gold: very-high-speed digital subscriber line (VSDL)</sub>
+	</entry>
+	<entry>
+		<date>2009-07-03</date>
+		<place>Hyderabad</place>
+		<name>W. Selvamurthy</name>
+		<sub>Life Sciences in service of soldiers</sub>
+	</entry>
+	<entry>
+		<date>1997-11-01</date>
+		<place>Hyderabad</place>
+		<name>C.N.R. Rao</name>
+		<sub><sub>Agony and ecstasy in doing borderless chemistry</sub></sub>
+	</entry>
+	<entry>
+		<date>1997-11-02</date>
+		<place>Hyderabad</place>
+		<name>Indira Nath</name>
+		<sub>The phenotype switch during natural course of human leprosy</sub>
+	</entry>
+	<entry>
+		<date>1997-11-02</date>
+		<place>Hyderabad</place>
+		<name>V. Radhakrishnan</name>
+		<sub>Locomotion - the art of overcoming friction</sub>
+	</entry>
+	<entry>
+		<date>1987-11-07</date>
+		<place>Hyderabad</place>
+		<name>K.G. Ramanathan</name>
+		<sub>The life and work of Srinivasa Ramanujan</sub>
+	</entry>
+	<entry>
+		<date>1987-11-08</date>
+		<place>Hyderabad</place>
+		<name>Madhav Gadgil</name>
+		<sub>Bird life in India: In homage to Dr Salim Ali</sub>
+	</entry>
+	<entry>
+		<date>1978-12-09</date>
+		<place>Hyderabad</place>
+		<name>S. Bhagavantam</name>
+		<sub>Contribution of Prof. Raman to light scattering</sub>
+	</entry>
+	<entry>
+		<date>1978-12-10</date>
+		<place>Hyderabad</place>
+		<name>N. Balakrishnan Nair</name>
+		<sub>Biodeterioration in sea, problems and prospects</sub>
+	</entry>
+	<entry>
+		<date>1965-12-21</date>
+		<place>Hyderabad</place>
+		<name>M.S. Swaminathan</name>
+		<sub>Plant genetics and food production</sub>
+	</entry>
+	<entry>
+		<date>1965-12-22</date>
+		<place>Hyderabad</place>
+		<name>M.G.K. Menon</name>
+		<sub>Cosmic ray neutrino experiments</sub>
+	</entry>
+	<entry>
+		<date>1955-12-28</date>
+		<place>Hyderabad</place>
+		<name>G.N. Ramachandran</name>
+		<sub>Recent advances in biophysics</sub>
+	</entry>
+	<entry>
+		<date>1955-12-29</date>
+		<place>Hyderabad</place>
+		<name>H.V. Neher</name>
+		<sub>Cosmic rays at high altitudes in the Arctic</sub>
+	</entry>
+	<entry>
+		<date>1950-12-29</date>
+		<place>Hyderabad</place>
+		<name>L. Rosenfeld</name>
+		<sub>Quadrapole moments of nuclei</sub>
+	</entry>
+	<entry>
+		<date>1950-12-29</date>
+		<place>Hyderabad</place>
+		<name>Leprince-Ringuet</name>
+		<sub>Contribution of France tocosmic ray work</sub>
+	</entry>
+	<entry>
+		<date>1950-12-29</date>
+		<place>Hyderabad</place>
+		<name>R.E. Peierls</name>
+		<sub>Atomic energy</sub>
+	</entry>
+	<entry>
+		<date>1950-12-30</date>
+		<place>Hyderabad</place>
+		<name>K.R. Ramanathan</name>
+		<sub>Thrunderstorms and tropicalcyclones</sub>
+	</entry>
+	<entry>
+		<date>1950-12-31</date>
+		<place>Hyderabad</place>
+		<name>C.V. Raman</name>
+		<sub>Birds, beetles and butterflies</sub>
+	</entry>
+	<entry>
+		<date>1943-12-26</date>
+		<place>Hyderabad</place>
+		<name>C.V. Raman</name>
+		<sub>Diamond - The prince of solids</sub>
+	</entry>
+	<entry>
+		<date>1943-12-27</date>
+		<place>Hyderabad</place>
+		<name>Birbal Sahni</name>
+		<sub>The scientific study of scenery</sub>
+	</entry>
+	<entry>
+		<date>1943-12-28</date>
+		<place>Hyderabad</place>
+		<name>K.S. Krishnan</name>
+		<sub>Form and symmetry in Nature</sub>
+	</entry>
+	<entry>
+		<date>2006-11-10</date>
+		<place>Indore</place>
+		<name>M.G.K. Menon</name>
+		<sub>The changing face of science</sub>
+	</entry>
+	<entry>
+		<date>2006-11-11</date>
+		<place>Indore</place>
+		<name>Kankan Bhattacharyya</name>
+		<sub>Study of organized and biological assemblies using an ultrafast laser</sub>
+	</entry>
+	<entry>
+		<date>2006-11-12</date>
+		<place>Indore</place>
+		<name>R. Gadagkar</name>
+		<sub>The functional organization of an insect society</sub>
+	</entry>
+	<entry>
+		<date>1996-11-01</date>
+		<place>Jodhpur</place>
+		<name>G. Mehta</name>
+		<sub>New forms of molecular carbon</sub>
+	</entry>
+	<entry>
+		<date>1996-11-02</date>
+		<place>Jodhpur</place>
+		<name>H.Y. Mohan Ram</name>
+		<sub>Plant life under extreme environments</sub>
+	</entry>
+	<entry>
+		<date>1996-11-02</date>
+		<place>Jodhpur</place>
+		<name>A. Jayaraman</name>
+		<sub>Unusual aspects of pressure -induced phase transitions in some novel type systems</sub>
+	</entry>
+	<entry>
+		<date>1996-11-02</date>
+		<place>Jodhpur</place>
+		<name>T.R. Anantharaman</name>
+		<sub>Metallurgical marvels of ancient India</sub>
+	</entry>
+	<entry>
+		<date>1996-11-03</date>
+		<place>Jodhpur</place>
+		<name>K. Subrahmanyam</name>
+		<sub>Planning for science and technology and its relevance to national security</sub>
+	</entry>
+	<entry>
+		<date>1998-10-30</date>
+		<place>Kottayam</place>
+		<name>N. Mukunda</name>
+		<sub>Mathematics and the physicist's conception of Nature</sub>
+	</entry>
+	<entry>
+		<date>1998-10-31</date>
+		<place>Kottayam</place>
+		<name>S. Ranganathan</name>
+		<sub>The magic in chemistry</sub>
+	</entry>
+	<entry>
+		<date>1998-10-31</date>
+		<place>Kottayam</place>
+		<name>T.V. Ramakrishnan</name>
+		<sub>Condensed matter science: Where is it going and where are we?</sub>
+	</entry>
+	<entry>
+		<date>1998-11-01</date>
+		<place>Kottayam</place>
+		<name>M. Vijayan</name>
+		<sub>Proteins: Structure,interactions and mobility</sub>
+	</entry>
+	<entry>
+		<date>1999-11-29</date>
+		<place>Lucknow</place>
+		<name>R.A. Mashelkar</name>
+		<sub>Intellectual property and India: The new context and the challeges ahead</sub>
+	</entry>
+	<entry>
+		<date>1999-11-30</date>
+		<place>Lucknow</place>
+		<name>R. Rajaraman</name>
+		<sub>Quantum Hall effect in double layers</sub>
+	</entry>
+	<entry>
+		<date>1999-11-30</date>
+		<place>Lucknow</place>
+		<name>Nawab Jafar Mir Abdullah</name>
+		<sub>Avadh Culture and its impact on society</sub>
+	</entry>
+	<entry>
+		<date>1999-11-30</date>
+		<place>Lucknow</place>
+		<name>R. Narasimha</name>
+		<sub>Clouds</sub>
+	</entry>
+	<entry>
+		<date>1999-11-31</date>
+		<place>Lucknow</place>
+		<name>P.T. Manoharan</name>
+		<sub>Free radical production in</sub>
+	</entry>
+	<entry>
+		<date>1980-11-14</date>
+		<place>Lucknow</place>
+		<name>M.K. Vainu Bappu</name>
+		<sub>Recent solar eclipse studies</sub>
+	</entry>
+	<entry>
+		<date>1980-11-15</date>
+		<place>Lucknow</place>
+		<name>P. Legris</name>
+		<sub>Present trend in ecological studies</sub>
+	</entry>
+	<entry>
+		<date>1980-11-16</date>
+		<place>Lucknow</place>
+		<name>S.N. Talukar</name>
+		<sub>The role of palaeobotany in oil exploration</sub>
+	</entry>
+	<entry>
+		<date>1995-11-10</date>
+		<place>Madras</place>
+		<name>M.M. Sharma</name>
+		<sub>New paradigms in chemical industry</sub>
+	</entry>
+	<entry>
+		<date>1995-11-10</date>
+		<place>Madras</place>
+		<name>P. Balaram</name>
+		<sub>Molecules in the treatment of disease: The never ending search for new drugs</sub>
+	</entry>
+	<entry>
+		<date>1994-07-31</date>
+		<place>Mysore</place>
+		<name>A.V. Rama Rao</name>
+		<sub>Synthesis of biologically active molecules with a difference</sub>
+	</entry>
+	<entry>
+		<date>1994-07-31</date>
+		<place>Mysore</place>
+		<name>Chandralekha</name>
+		<sub>Tradition and modernity</sub>
+	</entry>
+	<entry>
+		<date>1994-08-01</date>
+		<place>Mysore</place>
+		<name>Madhav Gadgil</name>
+		<sub>Biodiversity: Chance or necessity</sub>
+	</entry>
+	<entry>
+		<date>1994-08-01</date>
+		<place>Mysore</place>
+		<name>V. Siddharthachari</name>
+		<sub>Necessity of science</sub>
+	</entry>
+	<entry>
+		<date>1985-11-08</date>
+		<place>Madurai</place>
+		<name>R. Cowsik</name>
+		<sub>Architecture of the universe</sub>
+	</entry>
+	<entry>
+		<date>1985-11-09</date>
+		<place>Madurai</place>
+		<name>G. Neuweiler</name>
+		<sub>Echolocation in South Indian bats</sub>
+	</entry>
+	<entry>
+		<date>1985-11-09</date>
+		<place>Madurai</place>
+		<name>I. Mahadevan</name>
+		<sub>A computer study of the Indus script</sub>
+	</entry>
+	<entry>
+		<date>1973-11-05</date>
+		<place>Mangalore</place>
+		<name>S. Ramaseshan</name>
+		<sub>Can we harness solar energy?</sub>
+	</entry>
+	<entry>
+		<date>1973-11-06</date>
+		<place>Mangalore</place>
+		<name>C.V. Subramanian</name>
+		<sub>Fungi and man</sub>
+	</entry>
+	<entry>
+		<date>1967-12-20</date>
+		<place>Madras</place>
+		<name>C.V. Raman</name>
+		<sub>The origin of floral colours</sub>
+	</entry>
+	<entry>
+		<date>1967-12-20</date>
+		<place>Madras</place>
+		<name>S. Ramseshan</name>
+		<sub>The quest for new materials</sub>
+	</entry>
+	<entry>
+		<date>1967-12-21</date>
+		<place>Madras</place>
+		<name>A.R. Gopal-Ayengar</name>
+		<sub>Genetic language</sub>
+	</entry>
+	<entry>
+		<date>1966-12-21</date>
+		<place>Madurai</place>
+		<name>S. Bhagavantam</name>
+		<sub>The atomic nucleus</sub>
+	</entry>
+	<entry>
+		<date>1966-12-22</date>
+		<place>Madurai</place>
+		<name>Jacob Chandy</name>
+		<sub>The human brain</sub>
+	</entry>
+	<entry>
+		<date>1961-12-27</date>
+		<place>Mysore</place>
+		<name>M.K. Vainu Bappu</name>
+		<sub>The Sun</sub>
+	</entry>
+	<entry>
+		<date>1961-12-28</date>
+		<place>Mysore</place>
+		<name>C.V. Raman</name>
+		<sub>Gems and gemmology</sub>
+	</entry>
+	<entry>
+		<date>1960-12-28</date>
+		<place>Madras</place>
+		<name>S. Bhagavantam</name>
+		<sub>The story of the Earth</sub>
+	</entry>
+	<entry>
+		<date>1960-12-29</date>
+		<place>Madras</place>
+		<name>C.V. Raman</name>
+		<sub>Music and musical instruments</sub>
+	</entry>
+	<entry>
+		<date>1938-12-20</date>
+		<place>Madras</place>
+		<name>Birbal Sahni</name>
+		<sub>Separation of Burma as viewed by a geologist</sub>
+	</entry>
+	<entry>
+		<date>1938-12-22</date>
+		<place>Madras</place>
+		<name>K.S. Krishnan</name>
+		<sub>The crystal world</sub>
+	</entry>
+	<entry>
+		<date>2008-10-31</date>
+		<place>New Delhi</place>
+		<name>A. K. Sood</name>
+		<sub>Fascinating dynamics of soft matter</sub>
+	</entry>
+	<entry>
+		<date>2008-10-31</date>
+		<place>New Delhi</place>
+		<name>Narayani Gupta</name>
+		<sub>Delhi - the city of many gates</sub>
+	</entry>
+	<entry>
+		<date>2008-11-01</date>
+		<place>New Delhi</place>
+		<name>C. Rangarajan</name>
+		<sub>The state of Indian economy - achievements and challenges</sub>
+	</entry>
+	<entry>
+		<date>2008-11-02</date>
+		<place>New Delhi</place>
+		<name>K. Muralidhar</name>
+		<sub>Mammalian prolactin - an ancient but still a mysterious hormone</sub>
+	</entry>
+	<entry>
+		<date>1982-10-09</date>
+		<place>Nainital</place>
+		<name>A.P. Mitra</name>
+		<sub>Science of middle atmosphere</sub>
+	</entry>
+	<entry>
+		<date>1982-10-10</date>
+		<place>Nainital</place>
+		<name>H.K. Jain</name>
+		<sub>India's agricultural tranformation: New scientific technology and management infrastructure for the second phase</sub>
+	</entry>
+	<entry>
+		<date>1975-11-08</date>
+		<place>Nagpur</place>
+		<name>G. Venkataraman</name>
+		<sub>Fast breeder power reactors and their role in our nuclear power programme</sub>
+	</entry>
+	<entry>
+		<date>1975-11-09</date>
+		<place>Nagpur</place>
+		<name>Salim Ali</name>
+		<sub>The importance of watching birds OR Bird migration in</sub>
+	</entry>
+	<entry>
+		<date>1963-12-21</date>
+		<place>Nagpur</place>
+		<name>S. Ramaseshan</name>
+		<sub>March towards absolute zero</sub>
+	</entry>
+	<entry>
+		<date>1963-12-22</date>
+		<place>Nagpur</place>
+		<name>C.V. Raman</name>
+		<sub>The colours of flowers</sub>
+	</entry>
+	<entry>
+		<date>1941-12-25</date>
+		<place>Nagpur</place>
+		<name>Homi J. Bhabha</name>
+		<sub>Recent advances in cosmic ray physics</sub>
+	</entry>
+	<entry>
+		<date>1941-12-26</date>
+		<place>Nagpur</place>
+		<name>K.P. Sagreiya</name>
+		<sub>Beautiful trees and their culture</sub>
+	</entry>
+	<entry>
+		<date>1941-12-26</date>
+		<place>Nagpur</place>
+		<name>C.V. Raman</name>
+		<sub>A game of chance</sub>
+	</entry>
+	<entry>
+		<date>1991-11-09</date>
+		<place>Pune</place>
+		<name>Deepak Nayyar</name>
+		<sub>Crisis in the economy: Problems of adjustment and transition</sub>
+	</entry>
+	<entry> 
+		<date>1983-11-07</date>
+		<place>Pune</place>
+		<name>M.G. Deo</name>
+		<sub>Anti-leprosy vaccine - The global scene</sub>
+	</entry>
+	<entry> 
+		<date>1983-11-08</date>
+		<place>Pune</place>
+		<name>Biswajit Nag</name>
+		<sub>Microprocessors</sub>
+	</entry>
+	<entry> 
+		<date>1964-12-26</date>
+		<place>Poona</place>
+		<name>S. Bhagavantam</name>
+		<sub>Crystal symmetry and magnetic</sub>
+	</entry>
+	<entry> 
+		<date>1964-12-26</date>
+		<place>Poona</place>
+		<name>S. Bhagavantam</name>
+		<sub>Raman Effect and the lasers</sub>
+	</entry>
+	<entry> 
+		<date>1964-12-27</date>
+		<place>Poona</place>
+		<name>N.K. Panikkar</name>
+		<sub>The Indian Ocean</sub>
+	</entry>
+	<entry> 
+		<date>1944-12-27</date>
+		<place>Poona</place>
+		<name>V.R. Khanolkar</name>
+		<sub>The susceptibility of Indians to cancer</sub>
+	</entry>
+	<entry> 
+		<date>1944-12-28</date>
+		<place>Poona</place>
+		<name>K.S. Krishnan</name>
+		<sub>Order disorder phenomenon in alloys</sub>
+	</entry>
+	<entry> 
+		<date>1944-12-29</date>
+		<place>Poona</place>
+		<name>C. V. Raman</name>
+		<sub>The emission of light from diamonds</sub>
+	</entry>
+	<entry>
+		<date>2007-11-02</date>date>
+		<place>Thiruvananthapuram</place>
+		<name>M. L. Munjal</name>
+		<sub>Towards quieter automobiles</sub>
+	</entry>
+	<entry>
+		<date>2007-11-02</date>
+		<place>Thiruvananthapuram</place>
+		<name>Adoor Gopalakrishnan</name>
+		<sub>Mohiniattom-Documentary-cum-discussion</sub>
+	</entry>
+	<entry>
+		<date>2007-11-03</date>
+		<place>Thiruvananthapuram</place>
+		<name>Sulochana Gadgil</name>
+		<sub>Foretelling the monsoon</sub>
+	</entry>
+	<entry>
+		<date>2007-11-04</date>
+		<place>Thiruvananthapuram</place>
+		<name>Lotika Varadarajan</name>
+		<sub>Seafaring traditions of the Indian west coast</sub>
+	</entry>
+	<entry>
+		<date>2005-11-11</date>
+		<place>Tiruchirappalli</place>
+		<name>C. N. R. Rao</name>
+		<sub>Science for our future: Personal reflections on doing science in India</sub>
+	</entry>
+	<entry>
+		<date>2005-11-12</date>
+		<place>Tiruchirappalli</place>
+		<name>K. V. Subbarao</name>
+		<sub>Volcanic poisoning and mass extinctions</sub>
+	</entry>
+	<entry>
+		<date>2005-11-12</date>
+		<place>Tiruchirappalli</place>
+		<name>V. Shanta</name>
+		<sub>Cancer causes and prevention</sub>
+	</entry>
+	<entry>
+		<date>2005-11-13</date>
+		<place>Tiruchirappalli</place>
+		<name>R. K. Shyamasundar</name>
+		<sub>Computer science: Scientific and engineering fascinations and challenges</sub>
+	</entry>
+	<entry>
+		<date>2001-11-09</date>
+		<place>Tirupati</place>
+		<name>Albert Libchaber</name>
+		<sub>Information science and molecular biology</sub>
+	</entry>
+	<entry>
+		<date>2001-11-10</date>
+		<place>Tirupati</place>
+		<name>G.S. Agarwal</name>
+		<sub>Controlling light by light-stoppage,storage and superluminal propation of light</sub>
+	</entry>
+	<entry>
+		<date>2001-11-10</date>
+		<place>Tirupati</place>
+		<name>K.S. Singh</name>
+		<sub>Science, history and anthropology -A perspective on Prof. D.D. Kosambi's works and their impact</sub>
+	</entry>
+	<entry>
+		<date>2001-11-11</date>
+		<place>Tirupati</place>
+		<name>S.K. Pal</name>
+		<sub>Soft computing, machine intelligence and data mining</sub>
+	</entry>
+	<entry>
+		<date>1981-11-06</date>
+		<place>Trivandrum</place>
+		<name>M.G.K. Menon</name>
+		<sub>Experiments in Kolar (grand unification)</sub>
+	</entry>
+	<entry>
+		<date>1981-11-07</date>
+		<place>Trivandrum</place>
+		<name>K.N. Raj</name>
+		<sub>Technological progress and mass poverty</sub>
+	</entry>
+	<entry>
+		<date>1957-12-29</date>
+		<place>Tirupati</place>
+		<name>B.R. Seshachar</name>
+		<sub>The nature of the cell</sub>
+	</entry>
+	<entry>
+		<date>1957-12-30</date>
+		<place>Tirupati</place>
+		<name>S. Bhagavantam</name>
+		<sub>The Raman Effect</sub>
+	</entry>
+	<entry>
+		<date>1952-12-27</date>
+		<place>Trivandrum</place>
+		<name>T.R. Seshadri</name>
+		<sub>Recent advances in organic chemistry</sub>
+	</entry>
+	<entry>
+		<date>1952-12-27</date>
+		<place>Trivandrum</place>
+		<name>Homi J. Bhabha</name>
+		<sub>Elementary particles and cosmic rays</sub>
+	</entry>
+	<entry>
+		<date>1952-12-28</date>
+		<place>Trivandrum</place>
+		<name>C.V. Raman</name>
+		<sub>Nature of X-rays</sub>
+	</entry>
+	<entry>
+		<date>1945-12-26</date>
+		<place>Udaipur</place>
+		<name>K.R. Ramanathan</name>
+		<sub>Meteorology in the service of</sub>
+	</entry>
+	<entry>
+		<date>1945-12-27</date>
+		<place>Udaipur</place>
+		<name>E.R. Gee</name>
+		<sub>A tour in Afghanistan</sub>
+	</entry>
+	<entry> 
+		<date>1945-12-27</date>
+		<place>Udaipur</place>
+		<name>K.S. Krishnan</name>
+		<sub>Electron scattering in metals and alloys in relation to their electrical resistivities</sub>
+	</entry>
+	<entry>
+		<date>1945-12-28</date>
+		<place>Udaipur</place>
+		<name>K. Ramiah</name>
+		<sub>Plant breeding</sub>
+	</entry>
+	<entry>
+		<date>2004-11-25</date>
+		<place>Varanasi</place>
+		<name>Montek Singh Ahluwalia</name>
+		<sub>Globalization, and science in India</sub>
+	</entry>
+	<entry>
+		<date>2004-11-26</date>
+		<place>Varanasi</place>
+		<name>Rajaram Nityananda</name>
+		<sub>High ambitions at low frequencies: the GMRT and beyond</sub>
+	</entry>
+	<entry>
+		<date>2004-11-26</date>
+		<place>Varanasi</place>
+		<name>Veer Bhadra Mishra</name>
+		<sub>The Ganga at Varanasi and the travail to stop her abuse</sub>
+	</entry>
+	<entry>
+		<date>2004-11-27</date>
+		<place>Varanasi</place>
+		<name>S. C. Lakhotia</name>
+		<sub>Non-coding DNA: junk or a necessity for origin and evolution of biological complexity?</sub>
+	</entry>
+	<entry>
+		<date>1986-11-08</date>
+		<place>Varanasi</place>
+		<name>N. Mukunda</name>
+		<sub>The mathematical style of modern physics</sub>
+	</entry>
+	<entry>
+		<date>1986-11-09</date>
+		<place>Varanasi</place>
+		<name>W. Nultsch</name>
+		<sub>Photomovement of cyanobacteria</sub>
+	</entry>
+	<entry> 
+		<date>1986-11-09</date>
+		<place>Varanasi</place>
+		<name>M.S. Valiathan</name>
+		<sub>The equatorial heart</sub>
+	</entry>
+	<entry>
+		<date>1956-12-27</date>
+		<place>Waltair</place>
+		<name>R. Ananthakrishnan</name>
+		<sub>The Sun - Our luminary</sub>
+	</entry>
+	<entry>
+		<date>1956-12-28</date>
+		<place>Waltair</place>
+		<name>T.S. Sadasivan</name>
+		<sub>Soil-forne diseases of plants</sub>
+	</entry>
+	<entry>
+		<date>1956-12-29</date>
+		<place>Waltair</place>
+		<name>M.S. Krishnan</name>
+		<sub>Petroleum exploration</sub>
+	</entry>
+	<entry>
+		<date>1940-12-28</date>
+		<place>Waltair</place>
+		<name>C.V. Raman</name>
+		<sub>Structural colours</sub>
+	</entry>
+	<entry>
+		<date>1940-12-29</date>
+		<place>Waltair</place>
+		<name>Herre</name>
+		<sub>Fishes and fisheries in India</sub>
+	</entry>
+	<entry>
+		<date>1940-12-30</date>
+		<place>Waltair</place>
+		<name>K.S. Krishnan</name>
+		<sub>Magnetic and other properties of graphite crystals</sub>
+	</entry>
+</lectures>
